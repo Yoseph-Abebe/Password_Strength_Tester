@@ -1,4 +1,4 @@
-      **MicroLINK INFORMATION COMMUNICATION COLLEGE**
+      Password Strength Tester
        
 
 **Introduction**
