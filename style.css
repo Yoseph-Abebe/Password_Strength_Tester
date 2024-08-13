@@ -1,0 +1,89 @@
+body {
+  font-family: "Arial", sans-serif;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #e0e0e0;
+}
+
+.container {
+  text-align: center;
+  background-color: #e0e0e0;
+
+  width: 900px;
+  height: 500px;
+  border-radius: 8px;
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+}
+
+.header {
+  background-color: #2e2055;
+  color: #fff;
+  padding: 20px;
+  background-size: cover;
+  border-radius: 10px 10px 0 0;
+}
+
+input[type="password"],
+input[type="text"] {
+  width: 80%;
+  padding: 15px 10px;
+  margin: 50px 0;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(78, 71, 71, 0.5);
+  font-size: 16px;
+  background-color: #e0e0e0;
+  outline: none;
+}
+
+.checkbox {
+  display: inline-block;
+  margin-left: 100px;
+  position: relative;
+  left: 10vw;
+  bottom: 5vh;
+}
+
+.info {
+  margin: 10px 0;
+  font-size: 14px;
+}
+
+.strength {
+  margin-top: 20px;
+  padding: 15px;
+  border-radius: 5px;
+  display: inline-block;
+  font-weight: bold;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+.weak {
+  background-color: #ff4d4d;
+  color: #fff;
+  border: 1px solid #ccc;
+  padding: 8px 15px;
+  border-radius: 10px;
+}
+
+.medium {
+  background-color: #ffa500;
+  color: #fff;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  padding: 8px 15px;
+}
+
+.strong {
+  background-color: #4caf50;
+  color: #fff;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  padding: 8px 15px;
+}
