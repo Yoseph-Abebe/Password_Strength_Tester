@@ -89,8 +89,7 @@ input[type="text"] {
 }
 footer {
  text-align: center;
+  font-size: 7px;
  position: absolute; 
- font-size: 5px;
- top: 20vh; 
-
+ bottom: 0vh; 
 }
