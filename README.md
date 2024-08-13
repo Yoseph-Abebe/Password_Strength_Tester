@@ -1,7 +1,7 @@
-      ## MicroLINK INFORMATION COMMUNICATION COLLEGE##
+      **MicroLINK INFORMATION COMMUNICATION COLLEGE**
        
 
-##Introduction
+**Introduction**
 
 This document provides an overview of the Password Strength Tester web application. It details the code structure, functionality, and usage instructions.
 
@@ -19,7 +19,7 @@ With the Password Strength Tester, users are equipped to navigate the digital la
 
 
 
-##Overview 
+**Overview** 
 
 The Password Strength Tester is a web application designed to help users evaluate the strength of their passwords in real-time, addressing the growing need for enhanced online security amidst increasing cyber threats. 
 By providing immediate feedback on password complexity, the tool empowers users to make informed decisions that protect their personal and sensitive information.
@@ -35,7 +35,7 @@ By integrating this tool into their digital routines, users can navigate the onl
 
 
 
-##Usage Instructions
+**Usage Instructions**
 
 1.	Enter Password: Type a password into the input field. The application will automatically evaluate the password strength.
  
@@ -49,7 +49,7 @@ By integrating this tool into their digital routines, users can navigate the onl
 5. Strength Indicator: The application will classify the password as Weak, Medium, or Strong based on length and character complexity.
  
 
-##Password Strength Criteria
+**Password Strength Criteria**
 
 Weak: Passwords less than 6 characters or missing complexity.
 Medium: Passwords at least 6 characters long with a mix of letters and numbers or special characters.
